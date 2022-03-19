@@ -14,22 +14,16 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venkat0086&show_icons=true&locale=en" alt="venkat0086" /></p>
  -->
-<h1 align="center">Hi 👋, I'm Venkatesh R</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkat0086&label=Profile%20views&color=0e75b6&style=flat" alt="venkat0086" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkat0086" alt="venkat0086" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h1>Hi 👋, I'm Venkatesh R</h1>
+<h3>A passionate MERN Stack developer from India</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://venkat-r.netlify.app/](https://venkat-r.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://venkat-r.netlify.app/)
 
 - 💬 Ask me about **React,HTML,CSS,JavaScript**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1GJ2cEPTqS3GLBEG94xO-XnQxe9kLAoTd/view?usp=sharing](https://drive.google.com/file/d/1GJ2cEPTqS3GLBEG94xO-XnQxe9kLAoTd/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1GJ2cEPTqS3GLBEG94xO-XnQxe9kLAoTd/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
